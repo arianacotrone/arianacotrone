@@ -9,8 +9,7 @@ Trabajo en la intersección entre machine learning aplicado y análisis de negoc
 ## Sobre mí
 
 Mi base de Ingeniería Industrial le suma a la ciencia de datos una mirada de proceso: no me quedo en el modelo, pienso en cómo ese análisis se integra al flujo de trabajo real de quien lo va a usar. 
-Antes de sacar una conclusión, reviso de dónde salió el dato, qué tan confiable es la fuente y qué tan lejos me
-deja llevar la evidencia disponible — no más.
+Antes de sacar una conclusión, reviso de dónde salió el dato, qué tan confiable es la fuente y qué tan lejos me deja llevar la evidencia disponible.
 Construyo cada proyecto de este perfil con datos públicos, pipeline propio y limitaciones documentadas explícitamente, no ocultas.
 
 Desde [Espar Co.](https://esparco.com.ar), mi firma de Data and Business Solutions, llevo ese mismo criterio a clientes reales: PyMEs, comercios de barrio y equipos chicos que necesitan ordenar su información, tener presencia online y aparecer cuando alguien los busca.
